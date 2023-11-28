@@ -1,0 +1,7 @@
+POST http://localhost:3000
+Content-Type: application/json
+
+    {
+        "name": "Queda de internet",
+        "description": "Queda de internet devido a uma flaha no equipamento"        
+    }

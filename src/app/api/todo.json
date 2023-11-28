@@ -1,0 +1,106 @@
+[
+    {
+        "id": 577,
+        "name": "Expanded global Graphic Interface",
+        "description": "transition open-source content",
+        "status": {
+            "name": "FAZER"
+        }
+    },
+    {
+        "id": 814,
+        "name": "Visionary object-oriented conglomeration",
+        "description": "integrate intuitive architectures",
+        "status": {
+            "name": "FAZENDO"
+        }
+    },
+    {
+        "id": 416,
+        "name": "Programmable encompassing benchmark",
+        "description": "expedite leading-edge experiences",
+        "status": {
+            "name": "FAZENDO"
+        }
+    },
+    {
+        "id": 437,
+        "name": "Re-contextualized 24/7 Graphical User Interface",
+        "description": "grow sexy applications",
+        "status": {
+            "name": "FAZENDO"
+        }
+    },
+    {
+        "id": 873,
+        "name": "Switchable multimedia superstructure",
+        "description": "recontextualize cross-media web services",
+        "status": {
+            "name": "FAZENDO"
+        }
+    },
+    {
+        "id": 448,
+        "name": "Reactive fresh-thinking capacity",
+        "description": "synthesize open-source e-commerce",
+        "status": {
+            "name": "PAUSADO"
+        }
+    },
+    {
+        "id": 972,
+        "name": "Upgradable encompassing workforce",
+        "description": "synergize turn-key communities",
+        "status": {
+            "name": "PAUSADO"
+        }
+    },
+    {
+        "id": 860,
+        "name": "Customer-focused contextually-based benchmark",
+        "description": "orchestrate cross-media mindshare",
+        "status": {
+            "name": "FAZER"
+        }
+    },
+    {
+        "id": 734,
+        "name": "Ameliorated disintermediate support",
+        "description": "exploit web-enabled partnerships",
+        "status": {
+            "name": "FAZER"
+        }
+    },
+    {
+        "id": 417,
+        "name": "Balanced reciprocal synergy",
+        "description": "generate killer paradigms",
+        "status": {
+            "name": "FAZER"
+        }
+    },
+    {
+        "id": 418,
+        "name": "Customer-focused contextually-based benchmark",
+        "description": "orchestrate cross-media mindshare",
+        "status": {
+            "name": "PAUSADO"
+        }
+    },
+    {
+        "id": 419,
+        "name": "Balanced reciprocal synergy",
+        "description": "generate killer paradigms",
+        "status": {
+            "name": "FINALIZADO"
+        }
+    },
+    {
+        "id": 420,
+        "name": "Customer-focused contextually-based benchmark",
+        "description": "orchestrate cross-media mindshare",
+        "status": {
+            "name": "FINALIZADO"
+        }
+    }
+]

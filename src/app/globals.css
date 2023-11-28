@@ -6,6 +6,11 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --main-bg-color: brown;
+  --main-kanban-column-color-fazer: rgb(42, 165, 52);
+  --main-kanban-column-color-fazendo: rgb(252, 215, 8);
+  --main-kanban-column-color-pausado: rgb(230, 2, 2);
+  --main-kanban-column-color-finalizado: #5eead4;
 }
 
 @media (prefers-color-scheme: dark) {
