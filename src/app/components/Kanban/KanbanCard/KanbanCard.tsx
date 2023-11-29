@@ -15,9 +15,9 @@ const KanbanCard = ({ message, title, id, className, onDragCapture }: KanbanCard
 
   return (
     <KanbanCardWrap className={className} onDragCapture={onDragCapture} id={id}>
-      <KanbanCardHead message={title} title={title} />
+      <KanbanCardHead message={title} id={id} />
       <KanbanCardContent message={message} />
-      <KanbanCardFooter message="" id={id} />
+      <KanbanCardFooter id={id} />
     </KanbanCardWrap>
   );
 };

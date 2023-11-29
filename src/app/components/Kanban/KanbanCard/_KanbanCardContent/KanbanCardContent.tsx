@@ -5,7 +5,7 @@ interface KanbanCardContentTypes {
 
 const KanbanCardContent =( {message}:KanbanCardContentTypes) => {
     return (
-        <div>
+        <div className='flex h-24 justify-center content-center items-center'>
             {message}
         </div>
     );
